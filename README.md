@@ -2,18 +2,16 @@
 
 ###
 
-[![BusraCeval](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.linkedin.com/in/busra-zulal-ceval/) 
+[![BusraCeval](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.linkedin.com/in/%C3%B6zge-demir-8863601ab/) 
 
-&emsp;&emsp;&emsp;<font color="pink"> 🐱‍🏍 I'm Electric and Electronic Engineer but I find myself in software. </font> </br>
-&emsp;&emsp;&emsp;<font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
-</br>
-&emsp;&emsp;&emsp;<font color="pink"> 🧐 A new age enthusiast. </font>
+&emsp;&emsp;&emsp;<font color="pink"> 🐱‍🏍 I'm Computer Engineer but I find myself in software. </font> </br>
+&emsp;&emsp;&emsp;<font color="pink">🎆 Hello World. </font>
+
 </br>
 &emsp;&emsp;&emsp;<font color="pink">☕ Coffee is how I keep up with code</font> <br>
 
 &emsp;&emsp;&emsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:busraaceval@gmail.com) &emsp;[![LinkedIn - Busra Zulal Ceval](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busra-zulal-ceval/)&emsp;
-[![Twitter - @bzceval](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bzceval)&emsp;[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@busraaceval)&emsp;
+
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
