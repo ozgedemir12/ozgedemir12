@@ -6,8 +6,6 @@
 
 &emsp;&emsp;&emsp;<font color="pink"> 🐱‍🏍 I'm Computer Engineer but I find myself in software. </font> </br>
 &emsp;&emsp;&emsp;<font color="pink">🎆 Hello World. </font>
-
-</br>
 &emsp;&emsp;&emsp;<font color="pink">☕ Coffee is how I keep up with code</font> <br>
 
 &emsp;&emsp;
@@ -43,7 +41,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif"  />
 
 ###
 
@@ -57,24 +54,4 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<br>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bzceval&theme=vision-friendly-dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="busraceval" /></p> <br/>
-     
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
-
-# 🍕 Busra's Top 4 Page🍕
-
-[Daily Task App](https://github.com/bzceval/javascript-daily-task-app) | [Cocktail Cheers App](https://github.com/bzceval/reactjs-cocktail-cheers-app) | [Yummy Checkout App](https://github.com/bzceval/javascript-yummy-macaron-app) | [Movie App](https://github.com/bzceval/reactjs-movie-application)
---- | --- | --- | ---
-![Daily Task App](https://user-images.githubusercontent.com/100320309/194820640-fd4b09d7-3575-441c-ac5a-67247576350a.gif) | ![@Coctail](https://user-images.githubusercontent.com/100320309/204961075-9f2b7dcd-1b10-447d-8c09-bd3b16f077a9.gif) | ![yummy](https://user-images.githubusercontent.com/100320309/205872604-d875eb46-e167-4ffd-afd3-b78d986641db.gif) | ![Movie App](https://user-images.githubusercontent.com/100320309/205938897-f1156a99-5e70-422f-9b63-be80d0afc954.gif)
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ozgedemir12/ozgedemir12/output/snake.svg" alt="Snake animation" />
-
-###
