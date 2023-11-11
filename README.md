@@ -1,9 +1,5 @@
 ## Hi I'm Özge 👩🏻‍💻 <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://media.giphy.com/media/FIPkuEil9huVxS6qwQ/giphy.gif?raw=true"></a>
 
-Full Stack Developer
---------------------
-
-I'm Computer Engineer.
 
 * ✉️  You can contact me at [ozgdmr190@gmail.com](mailto:ozgdmr190@gmail.com)
 * 🧠  I'm learning Django
